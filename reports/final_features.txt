@@ -1,0 +1,4 @@
+resume_uploaded
+projects_added
+batch_resume_uploaded_pct
+event_fomo_score
