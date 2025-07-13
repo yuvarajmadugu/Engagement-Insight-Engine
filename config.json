@@ -1,0 +1,23 @@
+{
+  "profile_rules": {
+    "resume_threshold": 0.7,
+    "projects_avg_threshold": 1.5,
+    "event_fomo_threshold": 0.6
+  },
+  "engagement_rules": {
+    "buddies_event_threshold": 3,
+    "event_peer_threshold": 10,
+    "quiz_inactive_days": 7,
+    "user_inactive_days": 5
+  },
+  "ml_rules": {
+    "nudge_probability_threshold": 0.6
+  },
+  "priority_labels": {
+    "resume": "high",
+    "project": "medium",
+    "event_fomo": "high",
+    "quiz": "medium",
+    "comeback": "high"
+  }
+}

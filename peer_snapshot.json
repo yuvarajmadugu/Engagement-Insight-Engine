@@ -1,0 +1,122 @@
+[
+  {
+    "batch_avg_projects": 3,
+    "batch_resume_uploaded_pct": 73,
+    "batch_event_attendance": {
+      "tech-talk": 4,
+      "coding-contest": 15,
+      "startup-meetup": 4
+    },
+    "buddies_attending_events": [
+      "startup-meetup"
+    ]
+  },
+  {
+    "batch_avg_projects": 2,
+    "batch_resume_uploaded_pct": 63,
+    "batch_event_attendance": {
+      "tech-talk": 9,
+      "coding-contest": 2,
+      "startup-meetup": 11
+    },
+    "buddies_attending_events": [
+      "startup-meetup"
+    ]
+  },
+  {
+    "batch_avg_projects": 2,
+    "batch_resume_uploaded_pct": 90,
+    "batch_event_attendance": {
+      "tech-talk": 11,
+      "coding-contest": 11,
+      "startup-meetup": 11
+    },
+    "buddies_attending_events": [
+      "coding-contest"
+    ]
+  },
+  {
+    "batch_avg_projects": 1,
+    "batch_resume_uploaded_pct": 92,
+    "batch_event_attendance": {
+      "tech-talk": 4,
+      "coding-contest": 2,
+      "startup-meetup": 2
+    },
+    "buddies_attending_events": [
+      "startup-meetup"
+    ]
+  },
+  {
+    "batch_avg_projects": 1,
+    "batch_resume_uploaded_pct": 70,
+    "batch_event_attendance": {
+      "tech-talk": 14,
+      "coding-contest": 8,
+      "startup-meetup": 8
+    },
+    "buddies_attending_events": [
+      "startup-meetup"
+    ]
+  },
+  {
+    "batch_avg_projects": 2,
+    "batch_resume_uploaded_pct": 75,
+    "batch_event_attendance": {
+      "tech-talk": 4,
+      "coding-contest": 6,
+      "startup-meetup": 13
+    },
+    "buddies_attending_events": [
+      "tech-talk"
+    ]
+  },
+  {
+    "batch_avg_projects": 2,
+    "batch_resume_uploaded_pct": 78,
+    "batch_event_attendance": {
+      "tech-talk": 13,
+      "coding-contest": 2,
+      "startup-meetup": 5
+    },
+    "buddies_attending_events": [
+      "tech-talk"
+    ]
+  },
+  {
+    "batch_avg_projects": 4,
+    "batch_resume_uploaded_pct": 69,
+    "batch_event_attendance": {
+      "tech-talk": 13,
+      "coding-contest": 13,
+      "startup-meetup": 7
+    },
+    "buddies_attending_events": [
+      "tech-talk"
+    ]
+  },
+  {
+    "batch_avg_projects": 2,
+    "batch_resume_uploaded_pct": 77,
+    "batch_event_attendance": {
+      "tech-talk": 14,
+      "coding-contest": 5,
+      "startup-meetup": 10
+    },
+    "buddies_attending_events": [
+      "startup-meetup"
+    ]
+  },
+  {
+    "batch_avg_projects": 2,
+    "batch_resume_uploaded_pct": 81,
+    "batch_event_attendance": {
+      "tech-talk": 14,
+      "coding-contest": 6,
+      "startup-meetup": 3
+    },
+    "buddies_attending_events": [
+      "tech-talk"
+    ]
+  }
+]

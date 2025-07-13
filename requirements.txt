@@ -1,0 +1,23 @@
+# Core scientific and data libraries
+numpy==1.26.4
+pandas==2.2.2
+scikit-learn==1.4.2
+matplotlib==3.8.4
+joblib==1.4.2
+
+# FastAPI and dependencies
+fastapi==0.111.0
+uvicorn==0.29.0
+starlette==0.37.2
+
+# Pydantic (explicitly listed for clarity)
+pydantic==1.10.15
+
+# Typing extensions (used by Pydantic and FastAPI internally)
+typing-extensions==4.11.0
+
+# Date utilities (pandas and date parsing)
+python-dateutil==2.9.0.post0
+
+#install using 
+pip install -r requirements.txt
