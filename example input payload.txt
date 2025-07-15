@@ -1,0 +1,43 @@
+{
+  "peer_snapshot": {
+    "batch_avg_projects": 2,
+    "batch_event_attendance": {
+      "coding-contest": 9,
+      "startup-meetup": 5
+    },
+    "batch_resume_uploaded_pct": 84,
+    "buddies_attending_events": [
+      "kprit meetings"
+    ]
+  },
+  "user_data": {
+    "activity": {
+      "buddies_interacted": 0,
+      "last_event_attended": "2024-06-14",
+      "login_streak": 2,
+      "posts_created": 1
+    },
+    "profile": {
+      "buddy_count": 3,
+      "clubs_joined": [],
+      "goal_tags": [
+        "GRE",
+        "data science"
+      ],
+      "karma": 190,
+      "projects_added": 0,
+      "quiz_history": [
+        "aptitude",
+        "python"
+      ],
+      "resume_uploaded": false
+    },
+    "user_id": "yuvi bhaai bolthey"
+  }
+}
+
+
+
+
+input payload for getting project,profile resume,event nudge
+if resume is true we can see project, event, event fomo nudge 
